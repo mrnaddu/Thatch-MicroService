@@ -1,0 +1,7 @@
+{
+  "modules": {
+    "Thatch.Projects": {
+      "path": "Thatch.Projects.abpmdl.json"
+    }
+  }
+}

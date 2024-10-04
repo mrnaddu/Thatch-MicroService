@@ -1,0 +1,79 @@
+{
+  "folders": {
+    "items": {
+      "src": {},
+      "test": {},
+      "host": {}
+    }
+  },
+  "packages": {
+    "Thatch.SaaS.Domain.Shared": {
+      "path": "src/Thatch.SaaS.Domain.Shared/Thatch.SaaS.Domain.Shared.abppkg.json",
+      "folder": "src"
+    },
+    "Thatch.SaaS.Domain": {
+      "path": "src/Thatch.SaaS.Domain/Thatch.SaaS.Domain.abppkg.json",
+      "folder": "src"
+    },
+    "Thatch.SaaS.Application.Contracts": {
+      "path": "src/Thatch.SaaS.Application.Contracts/Thatch.SaaS.Application.Contracts.abppkg.json",
+      "folder": "src"
+    },
+    "Thatch.SaaS.Application": {
+      "path": "src/Thatch.SaaS.Application/Thatch.SaaS.Application.abppkg.json",
+      "folder": "src"
+    },
+    "Thatch.SaaS.EntityFrameworkCore": {
+      "path": "src/Thatch.SaaS.EntityFrameworkCore/Thatch.SaaS.EntityFrameworkCore.abppkg.json",
+      "folder": "src"
+    },
+    "Thatch.SaaS.MongoDB": {
+      "path": "src/Thatch.SaaS.MongoDB/Thatch.SaaS.MongoDB.abppkg.json",
+      "folder": "src"
+    },
+    "Thatch.SaaS.HttpApi": {
+      "path": "src/Thatch.SaaS.HttpApi/Thatch.SaaS.HttpApi.abppkg.json",
+      "folder": "src"
+    },
+    "Thatch.SaaS.HttpApi.Client": {
+      "path": "src/Thatch.SaaS.HttpApi.Client/Thatch.SaaS.HttpApi.Client.abppkg.json",
+      "folder": "src"
+    },
+    "Thatch.SaaS.TestBase": {
+      "path": "test/Thatch.SaaS.TestBase/Thatch.SaaS.TestBase.abppkg.json",
+      "folder": "test"
+    },
+    "Thatch.SaaS.EntityFrameworkCore.Tests": {
+      "path": "test/Thatch.SaaS.EntityFrameworkCore.Tests/Thatch.SaaS.EntityFrameworkCore.Tests.abppkg.json",
+      "folder": "test"
+    },
+    "Thatch.SaaS.MongoDB.Tests": {
+      "path": "test/Thatch.SaaS.MongoDB.Tests/Thatch.SaaS.MongoDB.Tests.abppkg.json",
+      "folder": "test"
+    },
+    "Thatch.SaaS.Domain.Tests": {
+      "path": "test/Thatch.SaaS.Domain.Tests/Thatch.SaaS.Domain.Tests.abppkg.json",
+      "folder": "test"
+    },
+    "Thatch.SaaS.Application.Tests": {
+      "path": "test/Thatch.SaaS.Application.Tests/Thatch.SaaS.Application.Tests.abppkg.json",
+      "folder": "test"
+    },
+    "Thatch.SaaS.HttpApi.Host": {
+      "path": "host/Thatch.SaaS.HttpApi.Host/Thatch.SaaS.HttpApi.Host.abppkg.json",
+      "folder": "host"
+    },
+    "Thatch.SaaS.HttpApi.Client.ConsoleTestApp": {
+      "path": "test/Thatch.SaaS.HttpApi.Client.ConsoleTestApp/Thatch.SaaS.HttpApi.Client.ConsoleTestApp.abppkg.json",
+      "folder": "test"
+    },
+    "Thatch.SaaS.IdentityServer": {
+      "path": "host/Thatch.SaaS.IdentityServer/Thatch.SaaS.IdentityServer.abppkg.json",
+      "folder": "host"
+    },
+    "Thatch.SaaS.Host.Shared": {
+      "path": "host/Thatch.SaaS.Host.Shared/Thatch.SaaS.Host.Shared.abppkg.json",
+      "folder": "host"
+    }
+  }
+}

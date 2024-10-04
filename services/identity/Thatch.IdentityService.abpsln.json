@@ -1,0 +1,7 @@
+{
+  "modules": {
+    "Thatch.IdentityService": {
+      "path": "Thatch.IdentityService.abpmdl.json"
+    }
+  }
+}

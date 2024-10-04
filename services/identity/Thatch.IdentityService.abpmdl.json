@@ -1,0 +1,79 @@
+{
+  "folders": {
+    "items": {
+      "src": {},
+      "test": {},
+      "host": {}
+    }
+  },
+  "packages": {
+    "Thatch.IdentityService.Domain.Shared": {
+      "path": "src/Thatch.IdentityService.Domain.Shared/Thatch.IdentityService.Domain.Shared.abppkg.json",
+      "folder": "src"
+    },
+    "Thatch.IdentityService.Domain": {
+      "path": "src/Thatch.IdentityService.Domain/Thatch.IdentityService.Domain.abppkg.json",
+      "folder": "src"
+    },
+    "Thatch.IdentityService.Application.Contracts": {
+      "path": "src/Thatch.IdentityService.Application.Contracts/Thatch.IdentityService.Application.Contracts.abppkg.json",
+      "folder": "src"
+    },
+    "Thatch.IdentityService.Application": {
+      "path": "src/Thatch.IdentityService.Application/Thatch.IdentityService.Application.abppkg.json",
+      "folder": "src"
+    },
+    "Thatch.IdentityService.EntityFrameworkCore": {
+      "path": "src/Thatch.IdentityService.EntityFrameworkCore/Thatch.IdentityService.EntityFrameworkCore.abppkg.json",
+      "folder": "src"
+    },
+    "Thatch.IdentityService.MongoDB": {
+      "path": "src/Thatch.IdentityService.MongoDB/Thatch.IdentityService.MongoDB.abppkg.json",
+      "folder": "src"
+    },
+    "Thatch.IdentityService.HttpApi": {
+      "path": "src/Thatch.IdentityService.HttpApi/Thatch.IdentityService.HttpApi.abppkg.json",
+      "folder": "src"
+    },
+    "Thatch.IdentityService.HttpApi.Client": {
+      "path": "src/Thatch.IdentityService.HttpApi.Client/Thatch.IdentityService.HttpApi.Client.abppkg.json",
+      "folder": "src"
+    },
+    "Thatch.IdentityService.TestBase": {
+      "path": "test/Thatch.IdentityService.TestBase/Thatch.IdentityService.TestBase.abppkg.json",
+      "folder": "test"
+    },
+    "Thatch.IdentityService.EntityFrameworkCore.Tests": {
+      "path": "test/Thatch.IdentityService.EntityFrameworkCore.Tests/Thatch.IdentityService.EntityFrameworkCore.Tests.abppkg.json",
+      "folder": "test"
+    },
+    "Thatch.IdentityService.MongoDB.Tests": {
+      "path": "test/Thatch.IdentityService.MongoDB.Tests/Thatch.IdentityService.MongoDB.Tests.abppkg.json",
+      "folder": "test"
+    },
+    "Thatch.IdentityService.Domain.Tests": {
+      "path": "test/Thatch.IdentityService.Domain.Tests/Thatch.IdentityService.Domain.Tests.abppkg.json",
+      "folder": "test"
+    },
+    "Thatch.IdentityService.Application.Tests": {
+      "path": "test/Thatch.IdentityService.Application.Tests/Thatch.IdentityService.Application.Tests.abppkg.json",
+      "folder": "test"
+    },
+    "Thatch.IdentityService.HttpApi.Host": {
+      "path": "host/Thatch.IdentityService.HttpApi.Host/Thatch.IdentityService.HttpApi.Host.abppkg.json",
+      "folder": "host"
+    },
+    "Thatch.IdentityService.HttpApi.Client.ConsoleTestApp": {
+      "path": "test/Thatch.IdentityService.HttpApi.Client.ConsoleTestApp/Thatch.IdentityService.HttpApi.Client.ConsoleTestApp.abppkg.json",
+      "folder": "test"
+    },
+    "Thatch.IdentityService.IdentityServer": {
+      "path": "host/Thatch.IdentityService.IdentityServer/Thatch.IdentityService.IdentityServer.abppkg.json",
+      "folder": "host"
+    },
+    "Thatch.IdentityService.Host.Shared": {
+      "path": "host/Thatch.IdentityService.Host.Shared/Thatch.IdentityService.Host.Shared.abppkg.json",
+      "folder": "host"
+    }
+  }
+}

@@ -1,0 +1,25 @@
+# tye application configuration file
+# read all about it at https://github.com/dotnet/tye
+#
+# when you've given us a try, we'd love to know what you think:
+#    https://aka.ms/AA7q20u
+#
+name: Thatch
+services:
+- name: Thatch-AuthServer
+  project: apps/Thatch.AuthServer/Thatch.AuthServer.csproj
+  bindings:
+    - protocol: https
+      port: 7600
+- name: Thatch-Administration
+  project: services/administration/Thatch.Administration.HttpApi.Host.csproj
+  bindings:
+    - protocol: https
+      port: 7001
+- name: Thatch-IdentityService
+  project: services/identity/Thatch.IdentityService.HttpApi.Host.csproj
+  bindings:
+    - protocol: https
+      port: 7002
+
+

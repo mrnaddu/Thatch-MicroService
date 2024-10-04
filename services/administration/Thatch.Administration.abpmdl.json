@@ -1,0 +1,79 @@
+{
+  "folders": {
+    "items": {
+      "src": {},
+      "test": {},
+      "host": {}
+    }
+  },
+  "packages": {
+    "Thatch.Administration.Domain.Shared": {
+      "path": "src/Thatch.Administration.Domain.Shared/Thatch.Administration.Domain.Shared.abppkg.json",
+      "folder": "src"
+    },
+    "Thatch.Administration.Domain": {
+      "path": "src/Thatch.Administration.Domain/Thatch.Administration.Domain.abppkg.json",
+      "folder": "src"
+    },
+    "Thatch.Administration.Application.Contracts": {
+      "path": "src/Thatch.Administration.Application.Contracts/Thatch.Administration.Application.Contracts.abppkg.json",
+      "folder": "src"
+    },
+    "Thatch.Administration.Application": {
+      "path": "src/Thatch.Administration.Application/Thatch.Administration.Application.abppkg.json",
+      "folder": "src"
+    },
+    "Thatch.Administration.EntityFrameworkCore": {
+      "path": "src/Thatch.Administration.EntityFrameworkCore/Thatch.Administration.EntityFrameworkCore.abppkg.json",
+      "folder": "src"
+    },
+    "Thatch.Administration.MongoDB": {
+      "path": "src/Thatch.Administration.MongoDB/Thatch.Administration.MongoDB.abppkg.json",
+      "folder": "src"
+    },
+    "Thatch.Administration.HttpApi": {
+      "path": "src/Thatch.Administration.HttpApi/Thatch.Administration.HttpApi.abppkg.json",
+      "folder": "src"
+    },
+    "Thatch.Administration.HttpApi.Client": {
+      "path": "src/Thatch.Administration.HttpApi.Client/Thatch.Administration.HttpApi.Client.abppkg.json",
+      "folder": "src"
+    },
+    "Thatch.Administration.TestBase": {
+      "path": "test/Thatch.Administration.TestBase/Thatch.Administration.TestBase.abppkg.json",
+      "folder": "test"
+    },
+    "Thatch.Administration.EntityFrameworkCore.Tests": {
+      "path": "test/Thatch.Administration.EntityFrameworkCore.Tests/Thatch.Administration.EntityFrameworkCore.Tests.abppkg.json",
+      "folder": "test"
+    },
+    "Thatch.Administration.MongoDB.Tests": {
+      "path": "test/Thatch.Administration.MongoDB.Tests/Thatch.Administration.MongoDB.Tests.abppkg.json",
+      "folder": "test"
+    },
+    "Thatch.Administration.Domain.Tests": {
+      "path": "test/Thatch.Administration.Domain.Tests/Thatch.Administration.Domain.Tests.abppkg.json",
+      "folder": "test"
+    },
+    "Thatch.Administration.Application.Tests": {
+      "path": "test/Thatch.Administration.Application.Tests/Thatch.Administration.Application.Tests.abppkg.json",
+      "folder": "test"
+    },
+    "Thatch.Administration.HttpApi.Host": {
+      "path": "host/Thatch.Administration.HttpApi.Host/Thatch.Administration.HttpApi.Host.abppkg.json",
+      "folder": "host"
+    },
+    "Thatch.Administration.HttpApi.Client.ConsoleTestApp": {
+      "path": "test/Thatch.Administration.HttpApi.Client.ConsoleTestApp/Thatch.Administration.HttpApi.Client.ConsoleTestApp.abppkg.json",
+      "folder": "test"
+    },
+    "Thatch.Administration.IdentityServer": {
+      "path": "host/Thatch.Administration.IdentityServer/Thatch.Administration.IdentityServer.abppkg.json",
+      "folder": "host"
+    },
+    "Thatch.Administration.Host.Shared": {
+      "path": "host/Thatch.Administration.Host.Shared/Thatch.Administration.Host.Shared.abppkg.json",
+      "folder": "host"
+    }
+  }
+}
